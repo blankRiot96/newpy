@@ -1,4 +1,5 @@
 # VSCode
+templates/
 .vscode/
 test.py
 *.exe
